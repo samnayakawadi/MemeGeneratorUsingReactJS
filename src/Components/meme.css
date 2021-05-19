@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+.form {
+  border: 1px solid red;
+  padding: 20px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  padding: 10px;
+  margin: 5px;
+}
+
+.btn {
+  padding: 10px;
+  margin: 5px;
+}
+
+.name {
+  border: 1px solid orange;
+  margin: 10px;
+  text-align: center;
+}
+
+.grouped {
+  border: 1px solid rosybrown;
+  margin: 10px;
+}
+
+img {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 70%;
+}
+
+.top {
+  color: white;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+.bottom {
+  color: white;
+  position: relative;
+  bottom: 50px;
+  text-align: center;
+}
